@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "THUMBNAILS_FOLDER_LOW_QUALITY",
+    "type": "java.lang.String",
+    "description": "Low quality thumbnails folder path"
+  },
+  {
+    "name": "thumbnails.folder.low.quality",
+    "type": "java.lang.String",
+    "description": "Low quality thumbnails folder path"
+  },
+  {
+    "name": "THUMBNAILS_FOLDER_HIGH_QUALITY",
+    "type": "java.lang.String",
+    "description": "High quality thumbnails folder path"
+  },
+  {
+    "name": "thumbnails.folder.high.quality",
+    "type": "java.lang.String",
+    "description": "High quality thumbnails folder path"
+  }
+]}
